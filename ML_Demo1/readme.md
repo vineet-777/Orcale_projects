@@ -27,7 +27,9 @@ It demonstrates how to load a dataset, preprocess it, train a model, evaluate pe
 
 ## 🛠️ How to Run
 
-You can run this project in two ways:
+1. **pip install -r requirements.txt**
+
+2. **You can run this project in two ways:**
 
 ```bash
 # Run as a Python script
