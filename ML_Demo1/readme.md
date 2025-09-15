@@ -10,8 +10,8 @@ It demonstrates how to load a dataset, preprocess it, train a model, evaluate pe
 - **`iris.csv`** → Dataset containing iris flower measurements.  
 - **`ml_demo.py`** → Python script implementation of the ML pipeline.  
 - **`ml_demo.ipynb`** → Jupyter Notebook version (interactive).  
-- **`ml_demo.pdf`** → Exported PDF version of the notebook.  
-
+- **`ml_demo.pdf`** → Exported PDF version of the notebook.
+- **`requirements.txt`** → Python dependencies for this project.
 ---
 
 ## 🚀 Project Workflow
